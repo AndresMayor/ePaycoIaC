@@ -11,7 +11,6 @@ resource "aws_lambda_function" "lambda" {
   runtime = "nodejs14.x"
   role = aws_iam_role.lambda_role.arn
   filename = "lambda_function.zip"
-  	  # Asegúrate de tener el archivo ZIP con el código de tu función Lambda
   source_code_hash = filebase64sha256("lambda_function.zip")
 }
 
