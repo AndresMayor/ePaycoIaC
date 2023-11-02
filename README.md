@@ -9,5 +9,6 @@
 
 ## Pipeline CI/CD
 
-* **Pipeline CI LambdaUpdate** [LambdaUpdate](https://github.com/AndresMayor/LambdaConfirmaiones/actions/runs/6714113573/workflow)🚀
+* **Pipeline  LambdaConfirmaciones** [LambdaUpdate](https://github.com/AndresMayor/LambdaConfirmaiones/actions/runs/6714113573/workflow)🚀
+* **Pipeline  LambdaTransacciones**  [LambdaUpdate](https://github.com/AndresMayor/LambdaTransacciones/blob/main/.github/pipelineTransac.yml)🚀
   
