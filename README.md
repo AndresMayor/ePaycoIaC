@@ -3,7 +3,7 @@
 ## Developed by 🛠️
 * **Jaime Andrés Mayor Aldana**  [AndresMayor](https://github.com/AndresMayor)🚀
 
-## Diagrama  IaC
+## Arquitectura
 
   ![DiagramaInfraestructura](./DiagramaInfraestructura/InfraestructuraAws.jpg)
 
