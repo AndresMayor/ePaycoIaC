@@ -7,6 +7,8 @@ resource "aws_lambda_function" "lambda" {
   filename = "../src/lambda_function.zip"
   source_code_hash = filebase64sha256("../src/lambda_function.zip")
 }
+
+
 # Define el rol IAM para la función Lambda
 resource "aws_iam_role" "lambda_role" {
   name = "lambda-role"
